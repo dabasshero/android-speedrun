@@ -6,40 +6,24 @@
   * [Projects](#projects)
   * [Quick Prep](#quick-prep)
   * [Helpful links](#helpful-links)
-  * [Project Descriptions](#project-descriptions)
+  * [Speedrun Projects Checklist](#project-descriptions)
     + [Build a Single Screen App](#build-a-single-screen-app)
-      - [Supporting Courses](#supporting-courses)
     + [Score Keeper App](#score-keeper-app)
-      - [Supporting Courses](#supporting-courses-1)
     + [Quiz App](#quiz-app)
-      - [Supporting Courses](#supporting-courses-2)
     + [Musical Structure App](#musical-structure-app)
-      - [Supporting Courses](#supporting-courses-3)
     + [Report Card](#report-card)
-      - [Supporting Courses](#supporting-courses-4)
     + [Tour Guide App](#tour-guide-app)
-      - [Supporting Courses](#supporting-courses-5)
     + [Book Listing App](#book-listing-app)
-      - [Supporting Courses](#supporting-courses-6)
     + [News App](#news-app)
-      - [Supporting Courses](#supporting-courses-7)
     + [Habit Tracker App](#habit-tracker-app)
-      - [Supporting Courses](#supporting-courses-8)
     + [Inventory App](#inventory-app)
-      - [Supporting Courses](#supporting-courses-9)
     + [Popular Movies](#popular-movies)
-      - [Supporting Courses](#supporting-courses-10)
     + [Build it Bigger](#build-it-bigger)
-      - [Supporting Courses](#supporting-courses-11)
     + [Make Your App Material](#make-your-app-material)
-      - [Supporting Courses](#supporting-courses-12)
     + [Outbreak](#outbreak)
-      - [Supporting Courses](#supporting-courses-13)
     + [Space Kerfuffle](#space-kerfuffle)
-      - [Supporting Courses](#supporting-courses-14)
   * [Advanced Projects](#advanced-projects)
     + [Project ideas](#project-ideas)
-      - [Supporting Courses](#supporting-courses-15)
       
 ## Goal
 Complete as many Android projects as possible between August 15 and September 15, 2017
@@ -53,7 +37,7 @@ Complete as many Android projects as possible between August 15 and September 15
 - Document your progress publicly, either in a repo that shows off everything you’ve completed, or in blog posts, or just tweet what you completed with #chingu-speedrun (unless someone else can come up with a better hashtag, that one’s pretty long), it doesn’t matter how or where, just that you document your progress publicly somewhere.
 - Do whatever is in your power to finish as many projects as you possibly can. Skip courses if you can do the projects without them. Make a boilerplate project so you can bootstrap a new project as fast as possible. Whatever, just finish as many as you can. The goal is number of FINISHED projects, finish ‘em.
 
-## Projects
+## Speedrun Projects Checklist
 - [ ] Project: Build a Single Screen App
 - [ ] Project: Score Keeper App
 - [ ] Project: Quiz App
