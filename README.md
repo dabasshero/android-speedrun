@@ -21,15 +21,27 @@ Complete as many Android projects as possible between August 15 and September 15
 - [ ] Project: Popular Movies
 - [ ] Project: Build it Bigger
 - [ ] Project: Make Your App Material
-- [ ] Project: Your choice - ideas listed below
+- [ ] Advanced Project: Your choice - ideas listed below
 - [ ] Project: Outbreak
 - [ ] Project: Space Kerfuffle
-- [ ] Project: Your choice - ideas listed below
-- [ ] Project: Your choice - ideas listed below
-- [ ] Project: Your choice - ideas listed below
-- [ ] Project: Your choice - ideas listed below
-- [ ] Project: Your choice - ideas listed below
-- [ ] Project: Your choice - ideas listed below
+- [ ] Advanced Project: Your choice - ideas listed below
+- [ ] Advanced Project: Your choice - ideas listed below
+- [ ] Advanced Project: Your choice - ideas listed below
+- [ ] Advanced Project: Your choice - ideas listed below
+- [ ] Advanced Project: Your choice - ideas listed below
+- [ ] Advanced Project: Your choice - ideas listed below
+
+## Quick Prep
+If you want to quickly get up to speed with the minimum courses necessary beforehand so you can hit the ground running on the speedrun:
+- [ ] Course: [Java Programming Basics](https://www.udacity.com/course/java-programming-basics--ud282)
+- [ ] Course: [Developing Android Apps](https://www.udacity.com/course/new-android-fundamentals--ud851)
+- [ ] Course: [Advanced Android App Development](https://www.udacity.com/course/advanced-android-app-development--ud855)
+- [ ] Course: [Android Performance](https://www.udacity.com/course/android-performance--ud825)
+
+## Helpful links
+
+- [ ] [Java SE8 API Specification](http://docs.oracle.com/javase/8/docs/api/index.html)
+- [ ] [Android API Guides](https://developer.android.com/guide/index.html) 
 
 ## Project Descriptions
 
@@ -54,11 +66,15 @@ Your design must include:
 - [ ] Course: [Java Programming Basics](https://www.udacity.com/course/java-programming-basics--ud282)
 - [ ] Course: [Android Basics: User Interface](https://www.udacity.com/course/android-basics-user-interface--ud834) 
 
+-------
+
 ### Score Keeper App
 The goal is to create an Score Keeper app which gives a user the ability to keep track of the score of two different teams playing a game of your choice. To build this project, you can follow along with the practice set and customize the Court Counter app to track scores from a different sport. (court counter app may be found in the 
 
 #### Supporting Courses
 - [ ] Course: [Android Basics: User Input](https://www.udacity.com/course/android-basics-user-input--ud836)
+
+-------
 
 ### Quiz App
 The goal is to create an educational app that quizzes a user about a certain topic of your choice. We want you to be creative about how you accomplish this. It’s up to you what the quiz questions will be about and how you want to present them to your user. (We recommend about 5-10 quiz questions for a reasonable scope of your app).
@@ -68,6 +84,8 @@ See [here](https://review.udacity.com/#!/rubrics/158/view) for project rubric
 #### Supporting Courses
 - [ ] Course: [Android Basics: User Input](https://www.udacity.com/course/android-basics-user-input--ud836)
 
+-------
+
 ### Musical Structure App
 The goal is to design and create the structure of a Music app which would allow a user to play audio files. There are many music player apps, and they make a wide variety of design choices. It will be your job to decide what kind of music app your structure would turn into and build out that structure using intents. Will you build an app to play music from the user’s library of music? Will you build an app to stream random songs from a database? Will you build a musical suggestion engine? Those choices are up to you!
 
@@ -75,6 +93,8 @@ See [here](https://review.udacity.com/#!/rubrics/159/view) for project rubric
 
 #### Supporting Courses
 - [ ] Course: [Android Basics: Multiscreen Apps](https://www.udacity.com/course/android-basics-multiscreen-apps--ud839)
+
+-------
 
 ### Report Card 
 The goal is to design and create the structure of a ReportCard Class which would allow a school to store a student’s grades for a particular year. This project will be just a java class, rather than a full Android app.
@@ -84,6 +104,8 @@ See [here](https://review.udacity.com/#!/rubrics/160/view) for project rubric
 #### Supporting Courses
 - [ ] Course: [Android Basics: Multiscreen Apps](https://www.udacity.com/course/android-basics-multiscreen-apps--ud839)
 
+-------
+
 ### Tour Guide App
 The goal is to create a tour guide app which presents relevant information to a user who’s visiting your city. The app can list top attractions, restaurants, public places, or events for the city. It can contain all the best known secrets that only locals know. It’s up to you which categories you want to provide, as well as what information to provide in each category.
 
@@ -91,6 +113,8 @@ See [here](https://review.udacity.com/#!/rubrics/161/view) for project rubric
 
 #### Supporting Courses
 - [ ] Course: [Android Basics: Multiscreen Apps](https://www.udacity.com/course/android-basics-multiscreen-apps--ud839)
+
+-------
 
 ### Book Listing App
 You will be making a book listing app using an API query and a ListView.
@@ -102,6 +126,8 @@ See [here](https://review.udacity.com/#!/rubrics/164/view) for project rubric
 #### Supporting Courses
 - [ ] Course: [Android Basics: Networking](https://www.udacity.com/course/android-basics-networking--ud843)
 
+-------
+
 ### News App
 You will be making your own app that connects to the Internet to provide news articles on a topic of your choice.
 
@@ -111,6 +137,8 @@ See [here](https://review.udacity.com/#!/rubrics/165/view) for project rubric
 
 #### Supporting Courses
 - [ ] Course: [Android Basics: Networking](https://www.udacity.com/course/android-basics-networking--ud843)
+
+-------
 
 ### Habit Tracker App
 You will be making a habit tracking app using an SQLite table.
@@ -122,6 +150,8 @@ See [here](https://review.udacity.com/#!/rubrics/162/view) for project rubric
 #### Supporting Courses
 - [ ] Course: [Android Basics: Data Storage](https://www.udacity.com/course/android-basics-data-storage--ud845)
 
+-------
+
 ### Inventory App
 You will be making an inventory app for a small business using an SQL table and a number of CRUD commands.
 
@@ -131,6 +161,8 @@ See [here](https://review.udacity.com/#!/rubrics/163/view) for project rubric
 
 #### Supporting Courses
 - [ ] Course: [Android Basics: Data Storage](https://www.udacity.com/course/android-basics-data-storage--ud845)
+
+-------
 
 ### Popular Movies
 In this project, you’ll build an app to allow users to discover the most popular movies playing. We will split the development of this app in two stages. 
@@ -169,6 +201,8 @@ See [here](https://review.udacity.com/#!/rubrics/67/view) for project rubric
 #### Supporting Courses
 - [ ] Course: [Developing Android Apps](https://www.udacity.com/course/new-android-fundamentals--ud851)
 
+-------
+
 ### Build it Bigger
 Create an app with multiple flavors that uses multiple libraries and Google Cloud Endpoints. The finished app will consist of four modules:
 
@@ -183,6 +217,8 @@ See [here](https://review.udacity.com/#!/rubrics/61/view) for project rubric
 
 #### Supporting Courses
 - [ ] Course: [Gradle for Android and Java](https://www.udacity.com/course/gradle-for-android-and-java--ud867)
+
+-------
 
 ### Make Your App Material
 Improve an app:
@@ -210,10 +246,13 @@ Kagure says:
 “The color scheme is really sad and I shouldn't feel sad.”
 
 See [here](https://review.udacity.com/#!/rubrics/63/view) for project rubric
+
 #### Supporting Courses
 - [ ] Course: [Developing Android Apps](https://www.udacity.com/course/new-android-fundamentals--ud851)
 - [ ] Course: [Advanced Android App Development](https://www.udacity.com/course/advanced-android-app-development--ud855)
 - [ ] Course: [Material Design for Android Developers](https://www.udacity.com/course/material-design-for-android-developers--ud862)
+
+-------
 
 ### Outbreak
 For this project, you will make a simple game reminiscent of classic Atari arcade game Breakout. Players will control a platform at the bottom of the screen that moves from side to side to intercept a ball that will bounce on impact. The goal is to stop the ball from falling past your platform and deflect it into various blocks in the upper half of the screen. When the ball collides with a block, the block is destroyed.
@@ -239,6 +278,8 @@ Bonus challenges
 #### Supporting Courses
 - [ ] Course: [2D Game Development with libGDX](https://www.udacity.com/course/2d-game-development-with-libgdx--ud405)
 
+-------
+
 ### Space Kerfuffle
 Space Kerfuffle! is a top down, starfighter combat game. Players assume the role of an intrepid spacefighter pilot flying headlong into a swarm of aliens or robots or something else evil that wants to destroy humanity, probably. Players control a spacecraft and fire projectiles at oncoming enemies who do the same. Explosions happen. Numbers go up.
 
@@ -246,6 +287,8 @@ Create a Galaga or Space Invaders type game, either creating your own assets or 
 
 #### Supporting Courses
 - [ ] Course: [How to Make a Platformer Using libGDX](https://www.udacity.com/course/how-to-make-a-platformer-using-libgdx--ud406)
+
+-------
 
 ## Advanced Projects
 
@@ -267,8 +310,4 @@ order to make this work. Use any backend you like, suggestion: check out firebas
 - [ ] Course: [Android Performance](https://www.udacity.com/course/android-performance--ud825)
 
 
-## Helpful links
-
-- [ ] [Java SE8 API Specification](http://docs.oracle.com/javase/8/docs/api/index.html)
-- [ ] [Android API Guides](https://developer.android.com/guide/index.html) 
 
