@@ -69,7 +69,7 @@ Your design must include:
 -------
 
 ### Score Keeper App
-The goal is to create an Score Keeper app which gives a user the ability to keep track of the score of two different teams playing a game of your choice. To build this project, you can follow along with the practice set and customize the Court Counter app to track scores from a different sport. (court counter app may be found in the 
+The goal is to create an Score Keeper app which gives a user the ability to keep track of the score of two different teams playing a game of your choice. To build this project, you can follow along with the practice set and customize the Court Counter app to track scores from a different sport. (court counter app may be found in the supporting course)
 
 #### Supporting Courses
 - [ ] Course: [Android Basics: User Input](https://www.udacity.com/course/android-basics-user-input--ud836)
@@ -182,7 +182,7 @@ original title
 - release date
 
 
-See [here](https://docs.google.com/document/d/1ZlN1fUsCSKuInLECcJkslIqvpKlP7jWL2TP9m6UiA6I/pub?embedded=true) for more specific details
+See [here](https://docs.google.com/document/d/1ZlN1fUsCSKuInLECcJkslIqvpKlP7jWL2TP9m6UiA6I/pub?embedded=true) for more specific details    
 See [here](https://review.udacity.com/#!/rubrics/66/view) for project rubric
 
 Stage 2, add additional functionality to the app you built in Stage 1.
@@ -212,7 +212,7 @@ Create an app with multiple flavors that uses multiple libraries and Google Clou
 - An Android app that fetches jokes from the GCE module and passes them to the Android Library for display
 
 
-See [here](https://github.com/udacity/ud867/tree/master/FinalProject) for more specific details
+See [here](https://github.com/udacity/ud867/tree/master/FinalProject) for more specific details    
 See [here](https://review.udacity.com/#!/rubrics/61/view) for project rubric
 
 #### Supporting Courses
