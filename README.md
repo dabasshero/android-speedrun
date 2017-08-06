@@ -6,6 +6,11 @@ Complete as many Android projects as possible between August 15 and September 15
 ## Rules
 - either code the projects in Java/Android native, or use a framework (such as Ionic/React Native/Weex)
 - adjust timeframe as necessary to meet your personal goals
+- Jumping around between is ok, skipping ahead to a project you’re ready for is fine.
+- Do not google or stack overflow for answers, use the docs. Don’t spend the month browsing YouTube for something to make it easier, dig in and work hard. Use the docs.
+- Store all projects in git. The repo can be public or private.
+- Document your progress publicly, either in a repo that shows off everything you’ve completed, or in blog posts, or just tweet what you completed with #chingu-speedrun (unless someone else can come up with a better hashtag, that one’s pretty long), it doesn’t matter how or where, just that you document your progress publicly somewhere.
+- Do whatever is in your power to finish as many projects as you possibly can. Skip courses if you can do the projects without them. Make a boilerplate project so you can bootstrap a new project as fast as possible. Whatever, just finish as many as you can. The goal is number of FINISHED projects, finish ‘em.
 
 ## Projects
 - [ ] Project: Build a Single Screen App
