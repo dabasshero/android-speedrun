@@ -2,10 +2,10 @@
 
 * [Goal](#goal)
 * [Rules](#rules)
-* [Projects](#projects)
+* [Speedrun Projects Checklist](#projects)
 * [Quick Prep](#quick-prep)
 * [Helpful links](#helpful-links)
-* [Speedrun Projects Checklist](#project-descriptions)
+* [Project Details](#project-descriptions)
   + [Build a Single Screen App](#build-a-single-screen-app)
   + [Score Keeper App](#score-keeper-app)
   + [Quiz App](#quiz-app)
@@ -72,7 +72,7 @@ If you want to quickly get up to speed with the minimum courses necessary before
 - [ ] [Java SE8 API Specification](http://docs.oracle.com/javase/8/docs/api/index.html)
 - [ ] [Android API Guides](https://developer.android.com/guide/index.html) 
 
-## Project Descriptions
+## Project Details
 
 ### Build a Single Screen App
 Design and implement a single screen app that displays information about a fictional small business. Think along the lines of your favorite coffeeshop, local restaurant, or that gem of a store that sells those rare comic books or records.
